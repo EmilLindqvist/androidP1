@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MyEconomy</string>
+    <string name="title_home">Income</string>
+    <string name="title_dashboard">Results</string>
+    <string name="title_notifications">Expenses</string>
+    <string name="log_in">Log In</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="welcome_msg_login">Welcome</string>
+    <string name="failed_msg_login">Please, fill empty fields</string>
+    <string name="btn_cancel_msg">App closing</string>
+    <string name="hint_word">Title of income...</string>
+    <string name="hint_income">Value...</string>
+    <string name="hint_category">Category...</string>
+    <string name="hint_date">Date...</string>
+
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Item not saved because it is empty.</string>
+    <string name="alert_text">Items</string>
+    <!-- spinner -->
+    <string name="category_text">Choose a category</string>
+
+    <string-array name="category_arrays">
+        <item>Salary</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="exp_category_arrays">
+        <item>Travels</item>
+        <item>Food</item>
+        <item>Living</item>
+        <item>Spare time</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="expense_fragment">EXPENSE</string>
+    <string name="result_fragment">Here is a overview of your incomes/expenses</string>
+    <string name="income_fragment">INCOME</string>
+</resources>
